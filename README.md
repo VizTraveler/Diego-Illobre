@@ -17,7 +17,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Featured Projects
-- Guided Walkthrough: Regional Profitability & Product Growth([link-to-repo](https://github.com/VizTraveler/AdventureWorks-Executive-Sales-Performance):
+- Guided Walkthrough: Regional Profitability & Product Growth [link-to-repo](https://github.com/VizTraveler/AdventureWorks-Executive-Sales-Performance):
 -  Analyzing using SQL Server Management System and Power BI
 
 ---

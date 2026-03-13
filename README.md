@@ -23,5 +23,5 @@
 ---
 **Connect with me:** 
 * www.linkedin.com/in/viztraveler
-* [https://ethanlab7.wordpress.com/](https://ethanlab7.wordpress.com/)
+* https://ethanlab7.wordpress.com
 
